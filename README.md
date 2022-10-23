@@ -1,7 +1,7 @@
 # TFODRPi
 
 Steps
-1. Generate TFLite Files: by executing '2.Colab_Training_and_Detection.ipynb' file in [TFOD Repository](https://github.com/mazqoty/AI-in-Quality-Control)
+1. Generate TFLite Files: by executing '2.Colab_Training_and_Detection.ipynb' file in [TFOD Repository](https://github.com/mazqoty/AI-in-Quality-Control) OR DOWNLOAD THE GIVEN MODEL
 2. Clone the current repository onto your Rasberry Pi or copy it from a machine using RDP.
 3. Install the required dependencies onto your Rasberry Pi.
 
