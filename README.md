@@ -5,7 +5,7 @@ Steps
 2. Clone the current repository onto your Rasberry Pi or copy it from a machine using RDP.
 3. Install the required dependencies onto your Rasberry Pi.
 
-- `pip3 install opencv-python`
+`pip3 install opencv-python`\n
 - `sudo apt-get install libcblas-dev`
 - `sudo apt-get install libhdf5-dev`
 - `sudo apt-get install libhdf5-serial-dev`
