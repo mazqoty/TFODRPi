@@ -21,3 +21,7 @@ Steps
 4. Copy your detect.tflite model into the same repository and update the labels.txt file to represent your labels.
 5. Run real time detections using the detect.py script
 - `python3 detect.py`
+
+# Resources
+
+Based on https://github.com/tensorflow/examples/blob/master/lite/examples/object_detection/raspberry_pi/README.md
